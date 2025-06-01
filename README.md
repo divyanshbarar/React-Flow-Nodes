@@ -3,7 +3,7 @@ Here's a comprehensive `README.md` for your React Flow Nodes project:
 ```markdown
 # React Flow Nodes - Workflow Builder
 
-![Project Screenshot](./screenshot.png) *(add screenshot later)*
+![Project Screenshot](./screenshot.png) 
 
 A visual node-based workflow builder with React Flow, featuring customizable nodes, pipeline analysis, and DAG validation.
 
